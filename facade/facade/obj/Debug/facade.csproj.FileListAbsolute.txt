@@ -1,0 +1,6 @@
+c:\users\johnny\documents\visual studio 2012\Projects\facade\facade\bin\Debug\facade.exe.config
+c:\users\johnny\documents\visual studio 2012\Projects\facade\facade\bin\Debug\facade.exe
+c:\users\johnny\documents\visual studio 2012\Projects\facade\facade\bin\Debug\facade.pdb
+c:\users\johnny\documents\visual studio 2012\Projects\facade\facade\obj\Debug\facade.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2012\Projects\facade\facade\obj\Debug\facade.exe
+c:\users\johnny\documents\visual studio 2012\Projects\facade\facade\obj\Debug\facade.pdb

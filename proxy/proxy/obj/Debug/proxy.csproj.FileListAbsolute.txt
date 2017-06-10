@@ -1,0 +1,6 @@
+c:\users\johnny\documents\visual studio 2012\Projects\proxy\proxy\bin\Debug\proxy.exe.config
+c:\users\johnny\documents\visual studio 2012\Projects\proxy\proxy\bin\Debug\proxy.exe
+c:\users\johnny\documents\visual studio 2012\Projects\proxy\proxy\bin\Debug\proxy.pdb
+c:\users\johnny\documents\visual studio 2012\Projects\proxy\proxy\obj\Debug\proxy.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2012\Projects\proxy\proxy\obj\Debug\proxy.exe
+c:\users\johnny\documents\visual studio 2012\Projects\proxy\proxy\obj\Debug\proxy.pdb

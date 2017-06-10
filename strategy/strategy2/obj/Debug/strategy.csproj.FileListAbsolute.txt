@@ -1,0 +1,9 @@
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\bin\Debug\strategy2.exe.config
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\bin\Debug\strategy2.exe
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\bin\Debug\strategy2.pdb
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\obj\Debug\strategy.csprojResolveAssemblyReference.cache
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\obj\Debug\strategy2.Form1.resources
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\obj\Debug\strategy2.Properties.Resources.resources
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\obj\Debug\strategy.csproj.GenerateResource.Cache
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\obj\Debug\strategy2.exe
+c:\Users\Johnny\documents\visual studio 2012\Projects\strategy\strategy2\obj\Debug\strategy2.pdb
