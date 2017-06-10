@@ -1,0 +1,6 @@
+c:\users\johnny\documents\visual studio 2012\Projects\StaticFactoryMethod\StaticFactoryMethod\bin\Debug\StaticFactoryMethod.exe.config
+c:\users\johnny\documents\visual studio 2012\Projects\StaticFactoryMethod\StaticFactoryMethod\bin\Debug\StaticFactoryMethod.exe
+c:\users\johnny\documents\visual studio 2012\Projects\StaticFactoryMethod\StaticFactoryMethod\bin\Debug\StaticFactoryMethod.pdb
+c:\users\johnny\documents\visual studio 2012\Projects\StaticFactoryMethod\StaticFactoryMethod\obj\Debug\StaticFactoryMethod.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2012\Projects\StaticFactoryMethod\StaticFactoryMethod\obj\Debug\StaticFactoryMethod.exe
+c:\users\johnny\documents\visual studio 2012\Projects\StaticFactoryMethod\StaticFactoryMethod\obj\Debug\StaticFactoryMethod.pdb
