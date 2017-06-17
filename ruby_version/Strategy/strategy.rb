@@ -38,7 +38,6 @@ end
 
 #返利收费子类
 class CashReturn < CashSuper
-	
 	def initialize(mony_condition, mony_return)
 		@mony_condition = mony_condition
 		@mony_return = mony_return
